@@ -1,7 +1,7 @@
 # Mobile Price Scrapper
 
-* by using this script we can suggest end users as per the budget.
-* it's using scrapping method to scrap data from the mobile91 website.
+## by using this script we can suggest end users as per the budget.
+## it's using scrapping method to scrap data from the mobile91 website.
 
 ## Installation
 
